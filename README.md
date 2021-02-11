@@ -1,2 +1,2 @@
-# My-Game-6
-My game 0_o
+# collisionAlgorithm
+Algorithm to detect collision between two objects
